@@ -12,8 +12,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "main": "server.js",
-  "author": "",
+  "main": "socket.js",
+  "author": "Tanjim",
   "license": "ISC",
   "description": ""
 }
