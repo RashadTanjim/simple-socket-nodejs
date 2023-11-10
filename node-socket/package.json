@@ -1,0 +1,19 @@
+{
+  "name": "socket-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mysql2": "^3.6.3",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "ws": "^8.14.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
